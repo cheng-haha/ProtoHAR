@@ -6,7 +6,7 @@ This is a PyTorch implementation of the paper
 ## Benchmark
 We offer a benchmark for USC-HAD and HARBOX. 
 
-
+## Usage
 1. git clone the repo
 ```
 git clone https://github.com/cheng-haha/ProtoHAR.git
@@ -22,7 +22,7 @@ cd yourfolder
 python  data/uschad/uschad_subdata.py
 python  data/harbox/harbox_subdata.py
 ```
-4. Usage
+4. run
 ````
 bash runexp.sh
 ````
