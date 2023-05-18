@@ -1,4 +1,4 @@
-<p align=center> <img src="cover.png" width = 60%/> </p>
+<p align=center> <img src="cover.png" width = 80%/> </p>
 
 
 <p align="center"><em>ProtoHAR: Prototype Guided Personalized Federated Learning for Human Activity Recognition</em></p>
