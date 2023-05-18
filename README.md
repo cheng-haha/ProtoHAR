@@ -1,5 +1,13 @@
-# ProtoHAR
-This is a PyTorch implementation of the paper 
+<p align=center> <img src="cover.png" width = 60%/> </p>
+
+
+<p align="center"><em>ProtoHAR: Prototype Guided Personalized Federated Learning for Human Activity Recognition</em></p>
+
+<p align="center"><a href="https://github.com/cheng-haha">Dongzhou Cheng</a></p>
+
+
+## Abstract
+TODO. We hope this research can bring a new perspective to the HAR community.
 
 ## The code will be coming soon
 
