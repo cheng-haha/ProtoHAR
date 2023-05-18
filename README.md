@@ -3,7 +3,7 @@
 
 <p align="center"><em>ProtoHAR: Prototype Guided Personalized Federated Learning for Human Activity Recognition</em></p>
 
-<p align="center"><a href="https://github.com/cheng-haha](https://scholar.google.com.sg/citations?user=zOg9ENIAAAAJ&hl=zh-CN&oi=sra)">Dongzhou Cheng</a></p>
+<p align="center"><a href="https://scholar.google.com.sg/citations?user=zOg9ENIAAAAJ&hl=zh-CN&oi=sra">Dongzhou Cheng</a></p>
 
 
 ## Abstract
