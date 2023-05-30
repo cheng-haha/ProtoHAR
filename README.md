@@ -7,7 +7,7 @@
 
 
 ## Abstract
-TODO. We hope this research can bring a new perspective to the HAR community.
+<p align=center> <img src="visual abstract.png" width = 80%/> </p>
 
 ## The code will be coming soon
 
