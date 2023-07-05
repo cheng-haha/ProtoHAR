@@ -1,7 +1,7 @@
 <p align=center> <img src="cover.png" width = 80%/> </p>
 
 
-<p align="center"><em>ProtoHAR: Prototype Guided Personalized Federated Learning for Human Activity Recognition</em></p>
+<p align="center"><em>ProtoHAR: Prototype Guided Personalized Federated Learning for Human Activity Recognition (IEEE JBHI 2023)</em></p>
 
 <p align="center"><a href="https://scholar.google.com.sg/citations?user=zOg9ENIAAAAJ&hl=zh-CN&oi=sra">Dongzhou Cheng</a></p>
 
