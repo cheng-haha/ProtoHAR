@@ -1,12 +1,12 @@
 <p align=center> <img src="cover.png" width = 80%/> </p>
 
 
-<p align="center"><em>ProtoHAR: Prototype Guided Personalized Federated Learning for Human Activity Recognition (IEEE JBHI 2023, <a href="data/ProtoHAR_Prototype_Guided_Personalized_Federated_Learning_for_Human_Activity_Recognition.pdf">paper</a></em>)</p>
+<p align="center"><em>ProtoHAR: Prototype Guided Personalized Federated Learning for Human Activity Recognition (IEEE JBHI 2023)</em></p>
 
 <p align="center"><a href="https://cheng-haha.github.io/">Dongzhou Cheng</a></p>
 
 
-## Abstract
+## Abstract (<a href="https://cheng-haha.github.io/data/ProtoHAR_Prototype_Guided_Personalized_Federated_Learning_for_Human_Activity_Recognition.pdf">paper</a>)
 <p align=center> <img src="visual abstract.png" width = 80%/> </p>
 
 ## The code will be coming soon
