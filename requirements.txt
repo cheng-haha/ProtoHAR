@@ -1,0 +1,15 @@
+click==8.0.4
+h5py==2.10.0
+matplotlib==3.3.4
+numpy==1.19.5
+pandas==1.1.5
+scikit_learn==1.1.1
+scipy==1.5.4
+seaborn==0.11.2
+sensorutils==0.13.1
+thop==0.0.31.post2005241907
+torch==1.8.0+cu111
+torchstat==0.0.7
+torchsummary==1.5.1
+torchvision==0.9.0+cu111
+tqdm==4.36.1

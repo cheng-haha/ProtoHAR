@@ -12,9 +12,9 @@
 ## The code will be coming soon
 
 ## Benchmark
-We offer a benchmark for USC-HAD and HARBOX. 
+We offer a benchmark for [USC-HAD](https://sipi.usc.edu/had/) and [HARBOX](https://github.com/xmouyang/FL-Datasets-for-HAR). 
 
-## Usage
+
 1. git clone the repo
 ```
 git clone https://github.com/cheng-haha/ProtoHAR.git
@@ -22,15 +22,20 @@ git clone https://github.com/cheng-haha/ProtoHAR.git
 
 2. Enter the current folder
 ```
-cd yourfolder
+cd {yourfolder}
 ```
 3. Generate heterogeneous data sets
+
+
+
+**NOTE**:`args.dataset_dir = {your dataset path}`
+
 
 ```
 python  data/uschad/uschad_subdata.py
 python  data/harbox/harbox_subdata.py
 ```
-4. run
+4. Usage
 ````
 bash runexp.sh
 ````
