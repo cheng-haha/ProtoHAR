@@ -9,7 +9,6 @@
 ## Abstract (<a href="https://cheng-haha.github.io/papers/ProtoHAR_Prototype_Guided_Personalized_Federated_Learning_for_Human_Activity_Recognition.pdf">paper</a>)
 <p align=center> <img src="visual abstract.png" width = 80%/> </p>
 
-## The code will be coming soon
 
 ## Benchmark
 We offer a benchmark for [USC-HAD](https://sipi.usc.edu/had/) and [HARBOX](https://github.com/xmouyang/FL-Datasets-for-HAR). 
